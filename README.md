@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ann
+- 👋 Hi, I’m @Min
 - 👀 I’m interested in computer 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
