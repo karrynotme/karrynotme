@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miya
 - 👀 I’m interested in computer 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java/python
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
